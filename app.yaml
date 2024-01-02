@@ -1,3 +1,3 @@
 kind: wasmer.io/App.v0
-name: open-better-service
-package: cypress1/open-better-service
+name: get-different-child
+package: cypress1/get-different-child
