@@ -1,0 +1,10 @@
+[package]
+name = "cypress1/open-better-service"
+version = "0.1.0"
+description = "wasmer-tests/wasmer-edge-gatsby-sample website"
+
+[dependencies]
+"wasmer/static-web-server" = "*"
+
+[fs]
+public = "public"
